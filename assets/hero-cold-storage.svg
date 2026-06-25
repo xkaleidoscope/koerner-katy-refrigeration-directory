@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Abstract commercial refrigeration panels and cold storage lines">
+  <rect width="1600" height="900" fill="#12302f"/>
+  <rect x="0" y="0" width="1600" height="900" fill="#0f766e" opacity="0.22"/>
+  <g fill="none" stroke="#dff8f4" stroke-width="3" opacity="0.28">
+    <path d="M120 180h420v540H120z"/>
+    <path d="M620 140h360v580H620z"/>
+    <path d="M1050 210h420v510h-420z"/>
+    <path d="M160 260h330M160 350h330M160 440h330M160 530h330"/>
+    <path d="M665 250h270M665 340h270M665 430h270M665 520h270"/>
+    <path d="M1095 300h330M1095 390h330M1095 480h330M1095 570h330"/>
+  </g>
+  <g fill="#fff7d6" opacity="0.58">
+    <circle cx="522" cy="214" r="10"/>
+    <circle cx="954" cy="176" r="10"/>
+    <circle cx="1450" cy="246" r="10"/>
+  </g>
+  <g fill="none" stroke="#fff7d6" stroke-width="4" opacity="0.34">
+    <path d="M250 750c120-88 235-88 350 0s230 88 345 0 230-88 345 0"/>
+    <path d="M210 798c140-72 280-72 420 0s280 72 420 0 280-72 420 0"/>
+  </g>
+  <rect width="1600" height="900" fill="#071513" opacity="0.36"/>
+</svg>

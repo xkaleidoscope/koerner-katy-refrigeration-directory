@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xkaleidoscope.github.io/koerner-katy-refrigeration-directory/sitemap.xml
